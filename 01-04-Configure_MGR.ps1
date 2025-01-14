@@ -14,8 +14,8 @@ choco install -y vscode
 #choco install -y sysinternals
 
 # Konfigurer Git
-git config --global user.name "NAVN"
-git config --global user.email "EPOST@EPOST.EPOST"
+git config --global user.name "ELISE HETLESÆTHER"
+git config --global user.email "elisehet@stud.ntnu.no"
 #
 
 # Check if computer is domain joined (CIM (Common Information Model))
